@@ -10,7 +10,7 @@ const mem = new Memory({
   llm: {
     provider: 'openai',
     config: {
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-mini',
       temperature: 0,
     },
   },
